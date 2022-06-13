@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MujtabaAli2
 - 👀 I’m interested in hiring top talent
-- 🌱 I’m hiring for COBOL Developer 
-- 📫 You can reach me at mujtabakazmi669@gmail.com
+- 🌱 I’m hiring for Delphi Developer 
+- 📫 You can reach me at mujtaba.ali@intagleo.com
 
 <!---
 MujtabaAli2/MujtabaAli2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
